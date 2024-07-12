@@ -1,5 +1,5 @@
 # ApplyBoard
-Install the following libraries/dependencies in the terminal: 
+Install the following libraries/dependencies :
 1. npm install
 2. npm install react-router-dom@6
 3. npm install react-bootstrap
