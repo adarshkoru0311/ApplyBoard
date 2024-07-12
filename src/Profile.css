@@ -1,0 +1,38 @@
+.profile-container {
+    padding: 20px;
+    margin-top: 60px; /* Offset for the fixed header */
+    margin-left: 60px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+  }
+  
+.Heading{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-left: 20%;
+}
+
+.outerbox{
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+}
+
+.leftbox{
+  margin-right: 15%;
+  margin-left: 20%;
+  margin-top: 40px;
+}
+
+
+.customlist{
+  list-style-type: '➜  ';
+}
+.customlist li a
+{
+  text-decoration: none;
+}
+
+
+

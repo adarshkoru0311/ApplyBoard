@@ -1,0 +1,38 @@
+.education-container {
+    padding: 20px;
+    margin-top: 60px; /* Offset for the fixed header */
+    margin-left: 60px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+  }
+  
+.Heading{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-left: 10%;
+}
+
+.outerbox{
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+}
+
+.leftbox{
+  margin-right: 15%;
+  margin-left: 10%;
+  margin-top: 40px;
+}
+
+.rightbox{
+  
+}
+
+.customlist{
+  list-style-type: '➜  ';
+}
+.customlist li
+{
+  text-decoration: none;
+}
